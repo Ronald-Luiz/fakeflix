@@ -98,6 +98,8 @@ position:absolute;
 top:180px;
 color:white;
 font-size:4vw;
+
+text-shadow: 1px 1px 2px black;
 `;
 
 const P = styled.p`
@@ -111,6 +113,8 @@ left:50%;
 transform: translate(-50%, -50%);
 color:white;
 font-size:3vw;
+
+text-shadow: 1px 1px 2px black;
 `;
 
 const Imagem = styled.img`
