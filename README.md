@@ -3,9 +3,10 @@
 Este é um projeto de uma cópia simples da Netflix, desenvolvido com React. O objetivo deste projeto é praticar minhas habilidades em desenvolvimento web.
 
 ## Funcionalidades
-- Exibição de filmes e séries em destaque.
-- Navegação por categorias de conteúdo.
-- Reprodução de trailers de filmes e séries.
+- Exibição de filmes em destaque.
+
+## Em planejamento
+- Reprodução de trailers.
 
 ## Como Executar
 
