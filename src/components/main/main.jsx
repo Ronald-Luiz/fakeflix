@@ -96,7 +96,7 @@ justify-content:center;
 align-items:center;
 position:absolute;
 top:180px;
-// color:white;
+color:white;
 font-size:4vw;
 `;
 
@@ -109,7 +109,7 @@ position:absolute;
 top:400px;
 left:50%;
 transform: translate(-50%, -50%);
-// color:white;
+color:white;
 font-size:3vw;
 `;
 
