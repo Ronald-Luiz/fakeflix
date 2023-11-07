@@ -99,7 +99,7 @@ top:180px;
 color:white;
 font-size:4vw;
 
-text-shadow: 1px 1px 2px black;
+text-shadow: 4px 4px 6px black;
 `;
 
 const P = styled.p`
@@ -114,7 +114,7 @@ transform: translate(-50%, -50%);
 color:white;
 font-size:3vw;
 
-text-shadow: 1px 1px 2px black;
+text-shadow: 4px 4px 6px black;
 `;
 
 const Imagem = styled.img`
