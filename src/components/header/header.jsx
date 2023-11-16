@@ -103,20 +103,20 @@ export default function header({ buttonLink, Movies, buttonLink2 }) {
     }
 
 
-    const changeBack = () => {
+    // const changeBack = () => {
 
 
-        if (document.body.style.backgroundColor == 'black' && document.body.style.color == 'white') {
-            document.body.style.backgroundColor = '#f5f5f5';
-            document.body.style.color = 'black';
+    //     if (document.body.style.backgroundColor == 'black' && document.body.style.color == 'white') {
+    //         document.body.style.backgroundColor = '#f5f5f5';
+    //         document.body.style.color = 'black';
 
-        } else {
-            document.body.style.backgroundColor = 'black';
-            document.body.style.color = 'white';
+    //     } else {
+    //         document.body.style.backgroundColor = 'black';
+    //         document.body.style.color = 'white';
 
-        }
+    //     }
 
-    }
+    // }
 
 
     return (
@@ -153,9 +153,9 @@ export default function header({ buttonLink, Movies, buttonLink2 }) {
                                 </Button>
                             </Link>
 
-                            <Button onClick={changeBack}>
+                            {/* <Button onClick={changeBack}>
                                 <i class="fa-solid fa-sun"></i>
-                            </Button>
+                            </Button> */}
                             {/* 
                                 <Routes>
                                     <Route path="/" />
